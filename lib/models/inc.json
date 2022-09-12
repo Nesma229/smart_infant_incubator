@@ -1,0 +1,38 @@
+{
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "incubatorCode": "string",
+    "isEmpty": true,
+    "incubatorImgId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "baby": {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "gender": "string",
+        "birthDate": "2022-05-05T23:29:12.485Z",
+        "babyCode": "string",
+        "incubatorId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "babyImgId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "mother": {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "adminId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "type": 0,
+            "name": "string",
+            "userName": "string",
+            "email": "string",
+            "phoneNumber": "string",
+            "userImgId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "babyCodes": [
+                "string"
+            ],
+            "babiesId": [
+                "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+            ],
+            "doctorsId": [
+                "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+            ],
+            "nursesId": [
+                "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+            ]
+        },
+        "doctorName": "string",
+        "nurseName": "string"
+    }
+}

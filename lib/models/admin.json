@@ -1,0 +1,14 @@
+{
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "adminId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "type": 0,
+    "name": "string",
+    "userName": "string",
+    "email": "string",
+    "phoneNumber": "string",
+    "ssn": "string",
+    "birthDate": "2022-05-07T01:18:10.719Z",
+    "userImgId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "hospitalName": "string",
+    "hospitalPhone": "string"
+}
